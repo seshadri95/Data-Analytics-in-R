@@ -1,0 +1,12 @@
+Package: qfifo
+Type: Package
+Title: A simple stack class written in S3
+Version: 0.0.1
+Author: Seshadri Sundarrajan <S.Sundarrajan1@nuigalway.ie>
+Maintainer: Seshadri Sundarrajan<S.Sundarrajan1@nuigalway.ie>
+Description: Assignment 10 - stack implementation.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: testthat
